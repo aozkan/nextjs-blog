@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+
+# vscode://vscode.github-authentication/did-authenticate?windowid=1&code=ecd1e6141f9e3350801b&state=2652e652-032a-42c1-ab1a-28bbdac90c7f
