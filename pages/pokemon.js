@@ -1,6 +1,6 @@
 import React from 'react'
-import Layout from '../components/Layout'
-import Link from 'next/Link'
+import Layout from '../components/layout'
+import Link from 'next/link'
 
 export default function pokemon({pokeman}) {
     console.log(pokeman);
